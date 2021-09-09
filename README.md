@@ -14,7 +14,7 @@
 
 ## Contacts and links  
 
-[Discord](discord.com) - AvaneeshNotFound#6652  |  [Github](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Discord](discord.com) - AvaneeshNotFound#6652  |  [Github](https://www.youtube.com/watch?v=iik25wqIuFo)
 
 ---
 
