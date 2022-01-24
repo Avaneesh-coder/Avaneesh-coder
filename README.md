@@ -1,4 +1,4 @@
-<a><img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-coder&show_icons=true&theme=material-palenight&count_private=true" alt="github status"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-coder&layout=compact&theme=material-palenight"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=AvaneeshG&show_icons=true&theme=material-palenight&count_private=true" alt="github status"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvaneeshG&layout=compact&theme=material-palenight"/></a>
 
 ## Languages i know
 
